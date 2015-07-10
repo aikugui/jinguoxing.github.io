@@ -7,8 +7,8 @@ paginate_path: page/:num
 blog:
     name:  静中细思                                              # 博客名称
     description:                                         # 博客描述
-    title:                                               # 网页标题
-    url:                                                 # 博客地址
+    title:    静中细思的博客                                           # 网页标题
+    url:   http://jinguoxing.github.io                                              # 博客地址
     duoshuo:                                             # 多说ID
     tongji:                                              # 百度统计ID
     qiniu:                                               # 七牛云地址
