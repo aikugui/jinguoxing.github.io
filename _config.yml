@@ -5,7 +5,7 @@ lsi: true
 pygments: true
 safe: true
 auto: true 
-encoding:utf-8
+timezone: Asia/Shanghai
 
 paginate: 8
 paginate_path: "page:num"
