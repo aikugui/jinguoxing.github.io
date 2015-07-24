@@ -1,7 +1,7 @@
 markdown: redcarpet
 permalink: /:categories/:title.html
 url: http://jinguoxing.github.io
-lsi: true
+lsi: true  #为相关文章生成索引
 pygments: true
 safe: true
 auto: true 

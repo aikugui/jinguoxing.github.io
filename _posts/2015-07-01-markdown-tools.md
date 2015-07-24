@@ -17,17 +17,16 @@ description: "介绍一些不同平台下Markdown的工具"
 <a target="_blank"  href="http://wowubuntu.com/markdown/">完整语法说明</a>
 和
 <a target="_blank"  href="http://wowubuntu.com/markdown/basic.html">快速入门</a>
-。
 
 <strong>Markdown 工具</strong>
 <ul>
 <li>Windows：<a target="_blank"  href="http://markdownpad.com/">MarkdownPad</a>，需要安装 <a target="_blank"  href="http://download.pchome.net/development/developtools/translater/detail-171222.html">Microsoft .NET Framework 4.0</a>。</li>
 <li>Linux：<a target="_blank"  href="http://sourceforge.net/p/retext/home/ReText/">ReText</a>，Ubuntu 安裝方法参考<a href="http://antbsd.twbbs.org/~ant/wordpress/?p=3953">这里</a></li>
 <li>
-<p>Mac：<a  target="_blank" href="http://mouapp.com/">Mou</a>，或者 <a href="http://www.sublimetext.com/dev">Sublime Text 2</a> 这两个 app 我们小众软件已经介绍过。</p>
+<p>Mac：<a  target="_blank" href="http://mouapp.com/">Mou</a>，或者 <a href="http://www.sublimetext.com/dev">Sublime Text 2</a> </p>
 <ul>
-<li><a  target="_blank" href="http://www.appinn.com/mou/" style="background: transparent none repeat scroll 0% 0%; padding: 0px;" rel="inlinks">Mou &ndash; Markdown 语言编辑器 [Mac] &ndash; 小众软件</a></li>
-<li><a target="_blank"  href="http://www.appinn.com/sublime-text-2/" style="background: transparent none repeat scroll 0% 0%; padding: 0px;" rel="inlinks">Sublime Text 2 &ndash; 非常强大的跨平台编辑器 &ndash; 小众软件</a></li>
+<li><a  target="_blank" href="http://www.appinn.com/mou/" style="background: transparent none repeat scroll 0% 0%; padding: 0px;" rel="inlinks">Mou &ndash; Markdown 语言编辑器 [Mac]</a></li>
+<li><a target="_blank"  href="http://www.appinn.com/sublime-text-2/" style="background: transparent none repeat scroll 0% 0%; padding: 0px;" rel="inlinks">Sublime Text 2 &ndash; 非常强大的跨平台编辑器 &ndash; </a></li>
 </ul>
 </li>
 <li>
