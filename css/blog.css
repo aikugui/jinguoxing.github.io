@@ -18,3 +18,26 @@ footer {
 	font-size:12px
 }
 
+
+.col-md-8 a {
+    color: #c30;
+    text-decoration: none;
+}
+.col-md-8 a:hover {
+    color: #777;
+}
+img, img a {
+    border: medium none;
+}
+
+
+.prev a,.next a {
+
+	color: #000000;
+    text-decoration: none;
+}
+
+a {
+   
+    text-decoration: none;
+}

@@ -1,21 +1,21 @@
 markdown: redcarpet
 permalink: /:categories/:title.html
-url: 
+url: http://jinguoxing.github.io
 lsi: true
 pygments: true
 safe: true
 auto: true 
+encoding:utf-8
 
 paginate: 8
 paginate_path: "page:num"
 
 # presonal config
-domain: xxxx
+domain: https://github.com/jinguoxing
 title: 静中细思
-description: 这是一个自由的网站
 author: kingnet
-email: 
-github: 
+email: jinguoxing_net@163.com
+github: https://github.com/jinguoxing
 
 config:
   js_dir:
