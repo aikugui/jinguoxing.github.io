@@ -18,3 +18,5 @@ tags: []
     rake page name="页面名称.md"   
     或者
 	rake page name="pages/页面名称.md"  
+
+
