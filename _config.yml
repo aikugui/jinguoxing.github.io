@@ -1,7 +1,6 @@
 markdown: redcarpet
-permalink: /:categories/:title.html
+permalink: /:year/:month/:day/:categories/:title/
 url: http://jinguoxing.github.io
-lsi: true 
 pygments: true
 safe: true
 auto: true 
