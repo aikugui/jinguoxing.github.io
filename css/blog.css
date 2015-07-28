@@ -30,7 +30,9 @@ img, img a {
     border: medium none;
 }
 
-
+.prev{
+    margin-right: 50px;
+}
 .prev a,.next a {
 
 	color: #000000;
